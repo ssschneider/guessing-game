@@ -17,6 +17,11 @@ export const Wrapper = styled.section`
     align-items: center;
     gap: 2rem;
     padding: 8rem 0 2rem;
+
+    @media (max-width: 710px) {
+        margin-top: 20rem;
+        padding: 4rem 1.2rem;
+    }
 `
 
 export const BtnsWrapper = styled.div`
@@ -24,4 +29,10 @@ export const BtnsWrapper = styled.div`
     justify-content: space-between;
     align-items: center;
     gap: 2.4rem;
+    
+    @media (max-width: 710px) {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
 `
