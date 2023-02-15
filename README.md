@@ -1,8 +1,10 @@
-# Guessing Game
+# Guessing Game 🃏
 
 Projeto desenvolvido como material de estudos pessoais, com o objetivo de trabalhar mais React e o uso de Hooks.
 
-### 🔧 Tecnologias
+![Banner](public/assets/banner.png)
+
+## 🔧 Tecnologias
 
 - React
 - Styled-Components
@@ -10,11 +12,12 @@ Projeto desenvolvido como material de estudos pessoais, com o objetivo de trabal
 - Axios
 - Deck of Cards API
 
-### 🔗 Acesso
+## 🔗 Acesso
 
-Para acessar o app, <a href="#">clique aqui</a>!
+Para acessar o app, <a href="https://guessing-game-chi.vercel.app/">clique aqui</a>!
 
-### Demo
+## Demo
 
 | Versão Desktop | Versão Mobile |
-| | |
+| -------------- | ------------- |
+| ![Versão Desktop](public/assets/desktop.gif) | ![Versão Mobile](public/assets/mobile.gif) |
